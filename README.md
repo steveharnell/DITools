@@ -1,10 +1,23 @@
-# DIT_Tools
-DIT Tools is an integrated digital imaging toolkit designed to streamline on-set workflows and accelerate the wrap process for commercial, TV, and film productions. It features:
+# DIT Tools
 
-• A robust Project Folder Creator that automates the creation of structured project directories—including customizable transcode and DIT folder options—to simplify project organization.
-• Directory synchronization with cancellation and logging.
-• File comparison across external drives with logging. (Because all Client drives should match.)
-• Render Check functionality inspired by John Spellman’s acclaimed RenderCheck AppleScript. (Matches Camera Originals to Transcodes.)
-• .drx file removal. (Handy after creating stills in DaVinici Resolve)
+**Professional Digital Imaging Toolkit for Film & Television Production**
 
-Built entirely in Python 3 with no external dependencies and compiled using py2app, this beta release is provided as-is (use at your own risk).
+DIT Tools is a comprehensive digital imaging solution engineered to optimize on-set workflows and expedite the wrap process across commercial, television, and film productions.
+
+## Key Features
+
+* **Automated Project Organization** — Generate structured project directories with customizable transcode and DIT folder hierarchies to ensure consistent file management across productions.
+
+* **Reliable Directory Synchronization** — Transfer files between storage locations with real-time progress tracking, cancellation capabilities, and detailed logging.
+
+* **Cross-Drive File Verification** — Ensure data integrity with comprehensive file comparison across client drives, complete with verification reports.
+
+* **Advanced Render Verification** — Validate transcoded files against camera originals using functionality inspired by John Spellman's industry-standard RenderCheck AppleScript.
+
+* **Workflow Optimization Tools** — Streamline post-production with utilities such as automatic .drx file cleanup after DaVinci Resolve still extraction.
+
+## Technical Specifications
+
+Developed entirely in Python 3 with zero external dependencies and compiled via py2app for maximum compatibility and portability.
+
+**Note:** This beta release is provided as-is with no warranty. Test thoroughly in non-critical environments before deployment in production scenarios.
