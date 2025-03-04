@@ -14,6 +14,8 @@ DIT Tools is a comprehensive digital imaging solution engineered to optimize on-
 
 * **Advanced Render Verification** — Validate transcoded files against camera originals using functionality inspired by John Spellman's industry-standard RenderCheck AppleScript.
 
+* **Directory Tree Generation** — Export comprehensive text-based maps of file systems with customizable filtering options and human-readable size calculations for efficient documentation and auditing. (Credit: Michael Romano)
+
 * **Workflow Optimization Tools** — Streamline post-production with utilities such as automatic .drx file cleanup after DaVinci Resolve still extraction.
 
 ## Technical Specifications
