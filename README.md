@@ -1,8 +1,8 @@
-# DIT Tools
+# DITools
 
 **Professional Digital Imaging Toolkit for Film & Television Production**
 
-DIT Tools is a comprehensive digital imaging solution engineered to optimize on-set workflows and expedite the wrap process across commercial, television, and film productions.
+DITools is a comprehensive digital imaging solution engineered to optimize on-set workflows and expedite the wrap process across commercial, television, and film productions.
 
 ## Key Features
 
