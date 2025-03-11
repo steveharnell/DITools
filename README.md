@@ -20,6 +20,6 @@ DITools is a comprehensive digital imaging solution engineered to optimize on-se
 
 ## Technical Specifications
 
-Developed entirely in Python 3 with zero external dependencies and compiled via py2app for maximum macOS compatibility and portability. macOS only.
+Developed entirely in Python 3 with zero external dependencies and compiled via py2installer for maximum macOS compatibility and portability. macOS only.
 
 **Note:** This beta release is provided as-is with no warranty. Test thoroughly in non-critical environments before deployment in production scenarios.
