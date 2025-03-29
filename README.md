@@ -4,6 +4,9 @@
 
 DITools is a comprehensive digital imaging solution engineered to optimize on-set workflows and expedite the wrap process across commercial, television, and film productions.
 
+## Looking for the Latest Release?
+The latest release is always available [here](https://github.com/steveharnell/DITools/releases/tag/latest), you can also browse [previous releases](https://github.com/steveharnell/DITools/releases/).
+
 ## Key Features
 
 * **Automated Project Organization** — Generate structured project directories with customizable transcode and DIT folder hierarchies to ensure consistent file management across productions.
@@ -26,4 +29,4 @@ Developed entirely in Python 3 with zero external dependencies and compiled via 
 
 ##
 
-Watch Video Demo here: vimeo.com/1063427223?share=copy
+Watch a [Video Demo](https://vimeo.com/1063427223?share=copy)
