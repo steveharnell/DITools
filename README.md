@@ -29,4 +29,4 @@ Developed entirely in Python 3 with zero external dependencies and compiled via 
 
 ##
 
-Watch a [Video Demo](https://vimeo.com/1063427223?share=copy)
+[![Watch the video](https://vumbnail.com/1063427223.jpg)](https://vimeo.com/1063427223)
