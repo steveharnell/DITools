@@ -35,7 +35,7 @@ Export comprehensive text-based maps of file systems with customizable filtering
 Streamline post-production with utilities such as automatic .drx file cleanup after DaVinci Resolve still extraction.
 
 ### FreqCheck RF Spectrum Analysis
-Monitor and coordinate 2.4GHz RF channel usage on set using HackRF One or RTL-SDR hardware. FreqCheck provides real-time spectrum scanning to help identify interference and optimize wireless video, audio, and camera control channel assignments. Requires HackRF or RTL-SDR libraries.
+Monitor and coordinate 2.4GHz RF channel usage on set using HackRF One (or clone) hardware. FreqCheck provides real-time spectrum scanning to help identify interference and optimize FIZ channel assignments. Requires HackRF libraries. *(Credit: Michael Romano)*
 
 ## Technical Specifications
 
