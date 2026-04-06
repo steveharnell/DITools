@@ -36,7 +36,7 @@ Streamline post-production with utilities such as automatic .drx file cleanup af
 
 ## Technical Specifications
 
-- Developed entirely in Python 3 with zero external dependencies
+- Developed entirely in Python 3 with no required external dependencies. Optional features such as xxHash64 checksums and RF spectrum scanning are unlocked by installing Homebrew, updated rsync (3.2.0+), and HackRF libraries
 - Compiled via PyInstaller for maximum macOS compatibility and portability
 - macOS only
 - Automatically detects and uses Homebrew rsync (`/opt/homebrew/bin/rsync`) when available, falling back to the system rsync if necessary
