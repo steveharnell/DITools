@@ -6,7 +6,7 @@ DITools is a comprehensive digital imaging solution engineered to optimize on-se
 
 ## Looking for the Latest Release?
 
-The latest release is always available [here](#), and you can also browse [previous releases](#).
+The latest release is always available [here](#), and you can also browse [[previous releases](https://github.com/steveharnell/DITools/releases)](#). 
 
 ## Key Features
 
