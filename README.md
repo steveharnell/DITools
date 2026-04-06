@@ -34,6 +34,9 @@ Export comprehensive text-based maps of file systems with customizable filtering
 ### Workflow Optimization Tools
 Streamline post-production with utilities such as automatic .drx file cleanup after DaVinci Resolve still extraction.
 
+### FreqCheck RF Spectrum Analysis
+Monitor and coordinate 2.4GHz RF channel usage on set using HackRF One or RTL-SDR hardware. FreqCheck provides real-time spectrum scanning to help identify interference and optimize wireless video, audio, and camera control channel assignments. Requires HackRF or RTL-SDR libraries.
+
 ## Technical Specifications
 
 - Developed entirely in Python 3 with no required external dependencies. Optional features such as xxHash64 checksums and RF spectrum scanning are unlocked by installing Homebrew, updated rsync (3.2.0+), and HackRF libraries
