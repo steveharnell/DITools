@@ -4,6 +4,10 @@
 
 DITools is a comprehensive digital imaging solution engineered to optimize on-set workflows and expedite the wrap process across commercial, television, and film productions.
 
+DITools is free for the community. If it saves you time on set, you can support its development:
+
+<a href="https://www.buymeacoffee.com/32Thirteen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50"></a>
+
 ## Looking for the Latest Release?
 
 The latest release is always available [https://github.com/steveharnell/DITools/releases/latest], and you can also browse [previous releases](https://github.com/steveharnell/DITools/releases). 
